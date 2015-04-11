@@ -2,7 +2,6 @@
 
     MADE BY ANDREW BAUMANN
     prints 100-1 
-
  */
 #ifndef ONEHUNDO_HPP
 
