@@ -6,3 +6,6 @@
   
 #100-1
   Taken from: http://www.thousandtyone.com/blog/EasierThanFizzBuzzWhyCantProgrammersPrint100To1.aspx
+
+#Cracking the Code
+  Questions from cracking the code
